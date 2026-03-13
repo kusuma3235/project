@@ -1,5 +1,5 @@
 console.log("to check temperature in celsius or freezing")
-let n=3
+let n=-5
 function modulo(n){
     if(n>0){
         return "celsius"
